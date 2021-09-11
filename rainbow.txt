@@ -1,6 +1,6 @@
 the rainbow have colors
-red 
-blue 
+Violet
+Indigo
 green
 yellow
 blue
